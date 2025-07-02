@@ -1,0 +1,8 @@
+pandas
+numpy
+tqdm
+openai
+requests
+langchain_ollama
+pickle
+scikit-learn
